@@ -12,7 +12,7 @@
 <h3>Step 1: Create Username and Password on Public Server</h3>
 First, I set up a username and password in plain text on one of the free RADIUS servers available publicly. This step is crucial as it allows me to capture and analyze the traffic effectively. 
 <br />
-<img src="https://github.com/Yagoobz/WiresharkNetworkSecurityAnalysis/assets/145611184/8d01e485-f0f1-4c0a-9a64-30bd7b960405" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/GenerateAndCaptureTraffic/assets/145611184/4ab263ae-caf6-4d3f-89ba-02dc8a59b0e9" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h3>Step 2: Send Authentication Request to Public Server</h3>
 I used a tool called NTRadPing to check if I could access the public server. With the details I got from the RADIUS website, like the IP address, port number, username, and password, I sent a request. It worked! I got access. Then, just to test, I tried using a wrong password. NTRadPing couldn't get a response, showing the security in action.
