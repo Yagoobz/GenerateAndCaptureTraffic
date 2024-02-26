@@ -1,4 +1,4 @@
-<h2>Exercise 1: Generate and Capture Traffic</h2>
+<h2>Generate and Capture Traffic</h2>
 
 <h3>Objectives</h3>
 - Establish access credentials on a public RADIUS server.
