@@ -20,7 +20,8 @@ I used a tool called NTRadPing to check if I could access the public server. Wit
 <br />
 <br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/87b92962-7af3-437d-b223-ee207ec87040" height="30%" width="70%" alt="Disk Sanitization Steps"/>
-
+<br />
+<br />
 Then, just to test, I tried using a wrong password. NTRadPing couldn't get a response, showing the security in action.
 <br />
 <br />
@@ -31,7 +32,8 @@ When dealing with RADIUS, it's important to note that it doesn't encrypt all tra
 <br />
 <br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/68e07d7a-dd9d-4e81-98d8-18f5eee70a59" height="30%" width="70%" alt="Disk Sanitization Steps"/>
-
+<br />
+<br />
 To decrypt the password, I navigated to the Protocols tab within the Preferences section of Wireshark and selected RADIUS. Utilizing the shared "secret" password provided by the NTRadPing application, I entered it into the designated field. Boom! The decrypted password appeared in clear-text, allowing for further analysis.
 <br />
 <br />
