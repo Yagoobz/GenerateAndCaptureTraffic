@@ -41,7 +41,8 @@ To decrypt the password, I navigated to the Protocols tab within the Preferences
 <br />
 <br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/17f7c351-7279-4821-9384-bf7520bc856c" height="30%" width="70%" alt="Disk Sanitization Steps"/>
-
+<br />
+<br />
 Alongside the false password, the decrypted credentials were revealed, facilitating a comprehensive analysis of the authentication process.
 <br />
 <br />
